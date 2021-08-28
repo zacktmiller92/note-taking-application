@@ -1,4 +1,4 @@
-# Professional Readme Generator
+# Note Taking Application
 
 ## Description
 This project is designed to create a web application that allows a user to create, read and delete notes.
